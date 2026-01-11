@@ -17,13 +17,12 @@
 在執行本程式碼前，請確保環境中已安裝以下套件：
 
 ```bash
-pip install opencv-python numpy gradio ipython
+pip install opencv-python numpy gradio
 ```
 
 * **OpenCV (cv2)**：負責核心影像處理演算法。
 * **NumPy**：高效處理影像矩陣數據。
 * **Gradio**：建立基於 Web 的互動式 GUI 介面。
-* **IPython**：優化 Jupyter Notebook 中的輸出顯示。
 
 ## 📖 使用說明
 **啟動程式**：在 Jupyter Notebook 或 Python 環境中執行主程式碼。
